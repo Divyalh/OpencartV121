@@ -1,0 +1,42 @@
+2024-09-18 10:31:17 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\RestassuredTraining\OpencartV121\grouping.xml
+
+2024-09-18 10:31:20 INFO  TC_001_AccountRegistrationTest:17 - ***staarting TC001_AccountRegisteration***
+2024-09-18 10:31:21 INFO  TC_001_AccountRegistrationTest:25 - ***providing customer details***
+2024-09-18 10:31:22 INFO  TC_001_AccountRegistrationTest:56 - ***finished***
+2024-09-18 10:31:23 INFO  TC002_LoginTest:17 - ***Starting TC001_LoginTest***
+2024-09-18 10:31:25 INFO  TC002_LoginTest:41 - *** ending the test case***
+2024-09-18 17:12:52 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\RestassuredTraining\OpencartV121\grouping.xml
+
+2024-09-18 17:12:55 INFO  TC_001_AccountRegistrationTest:17 - ***staarting TC001_AccountRegisteration***
+2024-09-18 17:12:56 INFO  TC_001_AccountRegistrationTest:25 - ***providing customer details***
+2024-09-18 17:12:57 INFO  TC_001_AccountRegistrationTest:56 - ***finished***
+2024-09-18 17:12:59 INFO  TC002_LoginTest:17 - ***Starting TC001_LoginTest***
+2024-09-18 17:13:01 INFO  TC002_LoginTest:41 - *** ending the test case***
+2024-09-18 17:17:09 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\RestassuredTraining\OpencartV121\master.xml
+
+2024-09-18 17:17:13 INFO  TC003_LoginDDT:25 - **TC003_LoginDDT started***
+2024-09-18 17:17:25 INFO  TC003_LoginDDT:25 - **TC003_LoginDDT started***
+2024-09-18 17:17:35 INFO  TC003_LoginDDT:78 - **TC003_LoginDDT ended***
+2024-09-18 17:17:35 INFO  TC003_LoginDDT:25 - **TC003_LoginDDT started***
+2024-09-18 17:17:46 INFO  TC003_LoginDDT:78 - **TC003_LoginDDT ended***
+2024-09-18 17:17:46 INFO  TC003_LoginDDT:25 - **TC003_LoginDDT started***
+2024-09-18 17:17:57 INFO  TC003_LoginDDT:78 - **TC003_LoginDDT ended***
+2024-09-18 17:17:57 INFO  TC003_LoginDDT:25 - **TC003_LoginDDT started***
+2024-09-18 17:32:22 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\RestassuredTraining\OpencartV121\master.xml
+
+2024-09-18 17:32:25 INFO  TC_001_AccountRegistrationTest:17 - ***staarting TC001_AccountRegisteration***
+2024-09-18 17:32:25 INFO  TC_001_AccountRegistrationTest:25 - ***providing customer details***
+2024-09-18 17:32:26 INFO  TC_001_AccountRegistrationTest:56 - ***finished***
+2024-09-18 17:32:29 INFO  TC002_LoginTest:17 - ***Starting TC001_LoginTest***
+2024-09-18 17:37:05 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\RestassuredTraining\OpencartV121\test-output\testng-failed.xml
+
+2024-09-18 17:37:09 INFO  TC002_LoginTest:17 - ***Starting TC001_LoginTest***
+2024-09-18 17:37:49 INFO  Utils:112 - [TestNG] Running:
+  C:\Workspace\RestassuredTraining\OpencartV121\test-output\testng-failed.xml
+
+2024-09-18 17:37:52 INFO  TC002_LoginTest:17 - ***Starting TC001_LoginTest***
